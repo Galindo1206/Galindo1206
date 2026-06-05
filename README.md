@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Galindo1206/Galindo1206/main/bannergalindo.png" alt="Mission Control Banner"/>
+</p>
+
 Hi, I'm David Galindo Solis
 
 ## Full Stack Developer
